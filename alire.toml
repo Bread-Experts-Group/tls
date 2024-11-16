@@ -1,0 +1,10 @@
+name = "tls"
+description = "Simple TLS"
+version = "0.1.0-dev"
+
+authors = ["Miko Elbrecht"]
+maintainers = ["Miko Elbrecht <pmt.mailservice@gmail.com>"]
+maintainers-logins = ["ATPStorages"]
+licenses = "Apache-2.0 WITH LLVM-exception"
+website = "https://javart.zip/p/tls"
+tags = ["tls", "ssl", "ada", "https"]
