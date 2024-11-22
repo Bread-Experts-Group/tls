@@ -8,3 +8,15 @@ maintainers-logins = ["ATPStorages"]
 licenses = "Apache-2.0 WITH LLVM-exception"
 website = "https://javart.zip/p/tls"
 tags = ["tls", "ssl", "ada", "https"]
+
+[[depends-on]]
+byteflip = "~0.1.0-dev"
+
+[[pins]]
+byteflip = { path='../byteflip' }
+
+[[depends-on]]
+random = "~0.1.0-dev"
+
+[[pins]]
+random = { path='../random' }
